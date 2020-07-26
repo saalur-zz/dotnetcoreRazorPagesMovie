@@ -8,3 +8,4 @@ This app has been build to demonstrate the following
 4. Concepts of Containerzing tiers of applications
 
 This is a two tier application that has a Web front end and a SQL Server backend
+![](https://github.com/saalur/dotnetcoreRazorPagesMovie/blob/master/Architecture.PNG) 
