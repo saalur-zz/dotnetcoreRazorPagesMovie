@@ -7,4 +7,4 @@ This app has been build to demonstrate the following
 3. Code First approach (Razor) to building data driven application
 4. Concepts of Containerzing tiers of applications
 
-This is a two tier application that has a Web front end and a SQL Server bckend
+This is a two tier application that has a Web front end and a SQL Server backend
